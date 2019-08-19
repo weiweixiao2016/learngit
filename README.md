@@ -1,6 +1,6 @@
 # de
 
-> y
+> this is my proctising project of Vue
 
 ## Build Setup
 
