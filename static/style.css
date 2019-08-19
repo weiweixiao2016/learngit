@@ -1,0 +1,32 @@
+.class1{
+  background: rgb(219, 233, 168);
+  color: rgb(235, 13, 161);
+}
+.OldDriver{
+  text-align: center;
+}
+h1,h2,h3,.upperword,#result
+{
+  text-align: center;
+}
+img{
+  background: #1ac98e;
+  margin-left: 23%;
+
+}
+.change,.hidden{
+  text-align: center;
+  color: rgb(18, 185, 214);
+}
+.hidden{
+  color: blueviolet;
+  font-size: 15px;
+
+}
+.upperword{
+  color: #1ac98e
+}
+#result{
+  color: rgb(245, 182, 100)
+}
+
