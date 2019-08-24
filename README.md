@@ -1,6 +1,6 @@
 # de
 
-> this is my proctising project of Vue
+> show
 
 ## Build Setup
 
