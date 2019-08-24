@@ -1,6 +1,6 @@
 # de
 
-> zahuishi
+> zahuishis
 
 ## Build Setup
 
